@@ -3,3 +3,7 @@ This is GORA
 
 
 Dünyalı dostum, merhaba.
+
+Selamlar.
+
+Tamam sanırım.
